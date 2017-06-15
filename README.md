@@ -1,6 +1,6 @@
 # fbssi
 
-## Find broken SSI path.
+Find broken SSI path.
 
 ## Install
 
